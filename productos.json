@@ -1,0 +1,86 @@
+﻿[
+    {
+        "sku": "Luffy Lámpara de Noche",
+        "name": "luffy",
+        "price": "115",
+        "offer": "0.33",
+        "image": "luffy.png"
+    },
+    {
+        "sku": "Anillo de Dragon Punk",
+        "name": "anillodragon",
+        "price": "32",
+        "offer": "0.09",
+        "image": "anillodragon.jpg"
+    },
+    {
+        "sku": "Tanjiro Kamado - Banpresto",
+        "name": "tanjiro",
+        "price": "205",
+        "offer": "0.40",
+        "image": "tanjiro.png"
+    },
+    {
+        "sku": "Espadas de God of War",
+        "name": "espadas",
+        "price": "200",
+        "offer": "0.11",
+        "image": "espadas.jpg"
+    },
+    {
+        "sku": "Thousand Sunny - One Piece",
+        "name": "barcosunny",
+        "price": "445",
+        "offer": "0.25",
+        "image": "barcosunny.jpg"
+    },
+    {
+        "sku": "Zoro Figura de Accion - Banpresto",
+        "name": "zoro",
+        "price": "319",
+        "offer": "0.50",
+        "image": "zoro.jpg"
+    },
+    {
+        "sku": "Jiren Figura de Accion . Banpresto",
+        "name": "jiren",
+        "price": "97",
+        "offer": "0.18",
+        "image": "jiren.jpg"
+    },
+    {
+        "sku": "Super Saiyan God Vegito",
+        "name": "vegito",
+        "price": "76",
+        "offer": "0.10",
+        "image": "vegito.jpg"
+    },
+    {
+        "sku": "Esferas del Dragon de Dragon Ball",
+        "name": "esferas",
+        "price": "249",
+        "offer": "0.13",
+        "image": "esferas.jpg"
+    },
+    {
+        "sku": "Polo con diseño de Jujutsu Kaisen",
+        "name": "polo",
+        "price": "164",
+        "offer": "0.25",
+        "image": "polo.jpg"
+    },
+    {
+        "sku": "Aretes de Demon Slayer",
+        "name": "aretes",
+        "price": "119",
+        "offer": "0.59",
+        "image": "aretes.jpg"
+    },
+    {
+        "sku": "Polera con diseño de Demon Slayer",
+        "name": "polera",
+        "price": "165",
+        "offer": "0.33",
+        "image": "polera.jpg"
+    }
+]
